@@ -10,6 +10,6 @@
   
   *Sales*
 
-**1. Predictors**
+**1. Feature**
  
   *TV* 
